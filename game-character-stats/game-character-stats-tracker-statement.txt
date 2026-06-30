@@ -1,0 +1,1 @@
+A game character stats tracker. The program allows you to create a character with specific attributes, update those attributes, and retrieve the current stats of the character.

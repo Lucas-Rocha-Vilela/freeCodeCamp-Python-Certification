@@ -1,0 +1,1 @@
+Use of object-oriented programming to create a Rectangle class and a Square class. The Square class is a subclass of Rectangle and inherits its methods and attributes.
