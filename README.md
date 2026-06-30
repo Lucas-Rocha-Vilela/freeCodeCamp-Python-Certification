@@ -1,3 +1,5 @@
 # freeCodeCamp Python Certification
 
-List of exercises with code and problem statement.
+Codes created throughout freeCodeCamp Python Certification.
+
+Search https://www.freecodecamp.org/learn/python-v9/ for more.
